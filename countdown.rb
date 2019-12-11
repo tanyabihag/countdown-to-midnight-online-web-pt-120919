@@ -7,7 +7,7 @@ def countdown
   
   while integer >= 0 
   puts "#{integer} SECONDS"
- end 
+  end 
   
 end
 
