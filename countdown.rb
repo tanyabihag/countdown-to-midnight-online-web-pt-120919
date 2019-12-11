@@ -2,7 +2,7 @@
 
 integer = 10 
 
-def countdown
+def countdown(integer)
   integer -= 1
   
   while integer >= 0 
